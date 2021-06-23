@@ -1,2 +1,2 @@
 # RestApi
-Rest Api project
+Simple Rest Api example
